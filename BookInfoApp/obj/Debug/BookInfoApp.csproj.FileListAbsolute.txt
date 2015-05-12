@@ -1,0 +1,12 @@
+G:\Dot_NET_Batch_01_SAIEMON_100134\Class Lecture\Labtest_02\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe.config
+G:\Dot_NET_Batch_01_SAIEMON_100134\Class Lecture\Labtest_02\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe
+G:\Dot_NET_Batch_01_SAIEMON_100134\Class Lecture\Labtest_02\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.pdb
+G:\Dot_NET_Batch_01_SAIEMON_100134\Class Lecture\Labtest_02\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csprojResolveAssemblyReference.cache
+G:\Dot_NET_Batch_01_SAIEMON_100134\Class Lecture\Labtest_02\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.BookInfoUI.resources
+G:\Dot_NET_Batch_01_SAIEMON_100134\Class Lecture\Labtest_02\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.Properties.Resources.resources
+G:\Dot_NET_Batch_01_SAIEMON_100134\Class Lecture\Labtest_02\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csproj.GenerateResource.Cache
+G:\Dot_NET_Batch_01_SAIEMON_100134\Class Lecture\Labtest_02\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.exe
+G:\Dot_NET_Batch_01_SAIEMON_100134\Class Lecture\Labtest_02\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.pdb
+G:\Nisha_102175\EXAM2\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe.config
+G:\Nisha_102175\EXAM2\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.exe
+G:\Nisha_102175\EXAM2\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.pdb
